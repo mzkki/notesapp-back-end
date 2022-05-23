@@ -1,0 +1,1 @@
+console.log('halo kita akan membuat restful api nnti');
